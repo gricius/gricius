@@ -7,7 +7,7 @@ I'm an Operator of the European Aeronautical Information Service Database (EAD) 
 - 🌐 I specialize in air navigation data analysis.
 - 🔍 I'm always eager to learn and explore new technologies.
 - 💻 I'm skilled in Python and JavaScript.
-- 🚀 gricius.eu
+- 🚀 https://gricius.eu
 
 #### What I'm Up To
 
