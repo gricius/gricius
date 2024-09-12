@@ -8,6 +8,7 @@ I'm an Operator of the European Aeronautical Information Service Database (EAD) 
 - 🔍 I'm always eager to learn and explore new technologies.
 - 💻 I'm skilled in Python and JavaScript.
 - 🚀 I'm working towards becoming a REACT full stack developer.
+- www.gricius.eu
 
 #### What I'm Up To
 
